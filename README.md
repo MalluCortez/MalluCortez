@@ -22,5 +22,5 @@
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalluCortez&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
- ## 🌐 Contato:
+ ## ☎️ Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-luiza-muller-670941222/) 
